@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chieutrann
+- 👋 Hi, I’m <strong>Joey Tran </strong>
 - 👀 I’m interested in <strong>Computer Science</strong>
 - 🌱 I’m currently learning <strong>Bioinformatics</strong>
 - 💞️ I’m looking for an internship in <strong>Data analysing and Software Engineneering Jobs </strong>
