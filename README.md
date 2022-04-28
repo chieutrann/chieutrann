@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chieutrann
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Bioinformatics
-- 💞️ I’m looking for an internship in Data analysing and Software Engineneering Jobs
+- 💞️ I’m looking for an internship in <em>Data analysing and Software Engineneering Jobs </em>
 - 📫 How to reach me Email: Joeytran2311@gmail.com
 
 <!---
