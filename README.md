@@ -1,6 +1,5 @@
 - 👋 Hi, I’m <strong>Joey  </strong>
-- 👀 I’m a <strong>Bioinformatics</strong> graduate in JKU, Linz
-
+- 👀 I’m a <strong>Bioinformatics</strong> graduate in <strong>JKU Linz</strong>
 - 💞️ I’m looking for an internship in <strong>Data analytic and Software Engineneering Jobs </strong>
 - 📫 How to reach me Email: Joeytran2311@gmail.com
 
